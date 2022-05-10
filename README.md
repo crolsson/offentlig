@@ -1,4 +1,4 @@
-Retningslinjer for åpen kildekode i NAV
+Retningslinjer for åpen kildekode i MD
 ====================
 
 ## Introduksjon
